@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    text-align: center;
+    margin: 30px auto;
+    color: white;
+}
+
+section {
+    background: white;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px white;
+    width: 500px;
+    margin: 50px auto;
+    padding: 10px;
+}
+
+p{
+    padding: 15px;
+}
+
+#txtnumber,#runbutton{
+    padding: 5px;
+    border-radius: 10px;
+}
+
+select{
+    width: 100px;
+    border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    margin: 30px auto;
+    color: white;
+}
